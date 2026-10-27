@@ -1,4 +1,4 @@
-# IHG Exercise
+# SQL Exercise
 
 This project contains a SQL-based air quality exposure analysis for the United States, using public BigQuery datasets to estimate population exposure by AQI band.
 
